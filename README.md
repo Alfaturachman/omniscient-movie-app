@@ -58,7 +58,3 @@ src/
  ├── index.css       # Global stylesheet (Tailwind v4 theme & Glassmorphism)
  └── main.tsx        # Application entry point
 ```
-
----
-
-_Designed and developed as part of the React Advanced Learning Roadmap (2026)._
